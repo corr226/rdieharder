@@ -1,0 +1,1 @@
+RDieHarder allows to interact with the dozens of RNGs, and RNG tests, that have been collected in DieHarder directly from R.
